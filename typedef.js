@@ -59,4 +59,5 @@
  * @property   {Object}                     [stack]
  * @property   {Number}                     [status]
  */
+
 module.exports = {};
