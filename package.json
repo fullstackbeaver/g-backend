@@ -1,0 +1,56 @@
+{
+  "_from": "gbackend",
+  "_id": "gbackend@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-3ivX45iB3nCy0eLGFayFQXIsg6DRf37Ybk1szVQWdMnfX/Jf85+395kBKr2rWV9X6POdervMUYJsPprqqXrkRg==",
+  "_location": "/gbackend",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gbackend",
+    "name": "gbackend",
+    "escapedName": "gbackend",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gbackend/-/gbackend-0.0.1.tgz",
+  "_shasum": "a8ca35c2dd68eeb990931d3ab6b2ffa774e2ec16",
+  "_spec": "gbackend",
+  "_where": "E:\\FSB\\projets\\g-backend hello world",
+  "author": {
+    "name": "fsb",
+    "email": "fullstackbeaver@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/fullstackbeaver/gbackend/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A lightweight backend, flexible, with no dependencies made for a low environmental footprint thanks to an integrated static page system.",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "homepage": "https://github.com/fullstackbeaver/gbackend#readme",
+  "keywords": [],
+  "license": "ISC",
+  "main": "gbackend.js",
+  "name": "gbackend",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstackbeaver/gbackend.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
