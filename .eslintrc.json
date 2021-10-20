@@ -67,11 +67,6 @@
     "no-delete-var": [
       "off"
     ],
-
-    "linebreak-style": [
-      "warn",
-      "windows"
-    ],
     "complexity": [
       "error",
       9
