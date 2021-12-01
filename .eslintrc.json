@@ -73,7 +73,7 @@
     ],
     "complexity": [
       "error",
-      9
+      7
     ],
     "prefer-spread": ["warn"],
 
