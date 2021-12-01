@@ -39,7 +39,7 @@
 
 /**
  * @typedef    {Object}             greenBackendPage      the page to send to client
- * @property   {String}             [body]
+ * @property   {String | Buffer}    [body]
  * @property   {Number}             [cache]               cache duration
  * @property   {String | Object}    [headers]
  * @property   {Boolean}            [readyToBeSent]       if defined and true skip follwing middleware
